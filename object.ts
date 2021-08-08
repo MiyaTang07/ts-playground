@@ -1,7 +1,7 @@
 /**
  * Record<Keys,Type>
  * 对象的【key的类型校验】 + 【value类型校验】
- * npx ts-node create-object.ts
+ * npx ts-node object.ts
 */
 interface CatInfo {
   age: number
