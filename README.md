@@ -9,3 +9,4 @@ npm install -D tslib @types/node
 ```
 npx ts-node XXX.ts
 ```
+- if you want to start learning ts, reading vue-next open source code will be a good practice, Good lucky for u🌈
