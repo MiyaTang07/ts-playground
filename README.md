@@ -1,5 +1,5 @@
 ### Execute TypeScript file using command line
-- first of all, isntall typescript as global tool
+- first of all, install typescript as local
 ```
 npm install -D typescript
 npm install -D ts-node
